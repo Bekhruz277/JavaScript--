@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box{
+    background-color: #ff0;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin-left: 50px;  
+    margin-top: 50px;
+}
+.circle {
+    width: 200px;
+    height: 200px;
+    background-color:blueviolet;
+    display: inline-block;
+    border-radius: 50%;
+}
